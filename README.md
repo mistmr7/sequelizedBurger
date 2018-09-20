@@ -1,2 +1,2 @@
-# sequelizedBurger
-Sequel burger homework assignment
+# burger
+Handlebar learning assignment
